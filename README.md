@@ -1,3 +1,9 @@
+This is a fork of the open62541 (see original README below) to cross-compile open62541 on a arm-cortexa 8 using theptxdist build system (see http://www.pengutronix.com/software/ptxdist/).
+
+ptxdist version: 2013.03.0
+OSELAS Toolchain version: 2012.12.1
+cross-compiler: arm-cortexa8-linux-gnueabihf
+
 open62541
 =========
 
